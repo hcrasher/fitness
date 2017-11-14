@@ -289,27 +289,6 @@ body #features_footer form input:focus{
     outline-width: thick;
 }
 
-body div.button_send{
-    background-color: #a2ca28;
-    color: #FFFFFF;
-    width: 12em;
-    display: inline-block;
-    padding-bottom: 6px;
-    padding-top: 8px;
-    border-radius: 3px;
-    padding-left: 2em;
-}
-
-body div.button_send:hover{
-   background-color: #fd634e;
-    transition:1.5s;
-}
-
-body div.button_send a{
-    color: #FFFFFF;
-    text-decoration: none;
-}
-
 body #features_footer form button{
     background-color: #a2ca28;
     color: #FFFFFF;
